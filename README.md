@@ -2,6 +2,9 @@
 
 Production-ready AI Voice Agent prompt, conversational architecture, test suites, and simulation harness designed for the **Home Credit Loan Against Property (LAP) Qualification** use case.
 
+🌐 **Live Production Deployment**: [https://salesagents-ai-lap-agent.vercel.app](https://salesagents-ai-lap-agent.vercel.app)  
+📦 **GitHub Repository**: [https://github.com/Harshith-02/salesagents-ai-lap-agent](https://github.com/Harshith-02/salesagents-ai-lap-agent)
+
 ---
 
 ## 📁 Repository Structure
